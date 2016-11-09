@@ -1,0 +1,5 @@
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase02_Ejer01\Clase02_Ejer01\bin\Debug\Clase02_Ejer01.exe.config
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase02_Ejer01\Clase02_Ejer01\bin\Debug\Clase02_Ejer01.exe
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase02_Ejer01\Clase02_Ejer01\bin\Debug\Clase02_Ejer01.pdb
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase02_Ejer01\Clase02_Ejer01\obj\Debug\Clase02_Ejer01.exe
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase02_Ejer01\Clase02_Ejer01\obj\Debug\Clase02_Ejer01.pdb

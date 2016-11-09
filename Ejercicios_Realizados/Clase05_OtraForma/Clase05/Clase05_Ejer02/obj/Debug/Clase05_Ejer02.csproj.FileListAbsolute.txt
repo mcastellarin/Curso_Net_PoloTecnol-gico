@@ -1,0 +1,6 @@
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase05\Clase05\Clase05_Ejer02\bin\Debug\Clase05_Ejer02.exe.config
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase05\Clase05\Clase05_Ejer02\bin\Debug\Clase05_Ejer02.exe
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase05\Clase05\Clase05_Ejer02\bin\Debug\Clase05_Ejer02.pdb
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase05\Clase05\Clase05_Ejer02\obj\Debug\Clase05_Ejer02.exe
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase05\Clase05\Clase05_Ejer02\obj\Debug\Clase05_Ejer02.pdb
+C:\Users\MailenWin7\Desktop\Ejercicios_Curso_Net_Empleartec_2016\Clase05\Clase05\Clase05_Ejer02\obj\Debug\Clase05_Ejer02.csprojResolveAssemblyReference.cache
