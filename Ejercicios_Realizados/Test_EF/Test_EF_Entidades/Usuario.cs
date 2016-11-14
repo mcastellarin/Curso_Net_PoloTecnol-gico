@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestEF_Entidades
+namespace Test_EF_Entidades
 {
     public class Usuario
-    {
+    {   
         public string Login { get; set; }
         public DateTime FechaUltimoLogin { get; set; }
         public int IntentosInvalidos { get; set; }

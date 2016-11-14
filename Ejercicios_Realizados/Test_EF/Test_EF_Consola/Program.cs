@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestEF_Consola
+namespace Test_EF_Consola
 {
     class Program
     {

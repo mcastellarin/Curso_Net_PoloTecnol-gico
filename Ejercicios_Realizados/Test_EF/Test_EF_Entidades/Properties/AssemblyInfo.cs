@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TestEF_Consola")]
+[assembly: AssemblyTitle("Test_EF_Entidades")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("Prueba01")]
+[assembly: AssemblyProduct("Test_EF_Entidades")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3a6782f2-3388-4bdc-8831-9fa58338d0d7")]
+[assembly: Guid("6550c616-e6b4-4f54-b0fe-46214d830f5c")]
 
 // Version information for an assembly consists of the following four values:
 //
