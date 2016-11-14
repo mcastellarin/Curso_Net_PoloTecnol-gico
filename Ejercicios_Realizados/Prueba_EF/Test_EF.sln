@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEF_Consola", "Prueba01\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEF_Entidades", "Entidades\TestEF_Entidades.csproj", "{DFD6A1B3-9A57-4F4C-BF33-FFC24E647F74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTestEF_Data", "Data\DTestEF_Data.csproj", "{A878FEC1-7003-4598-94EC-44244F7095BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEF_Data", "Data\TestEF_Data.csproj", "{A878FEC1-7003-4598-94EC-44244F7095BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
