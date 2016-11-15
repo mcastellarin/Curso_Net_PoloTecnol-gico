@@ -1,0 +1,19 @@
+create table Usuarios
+(
+	Login nvarchar(20) not null primary key,
+	FechaUltimoLogin dateTime, 
+	IntentosInvalidos int,
+	ID_Perfil int not null,
+	constraint FX_Perfiles foreign key(ID_Perfil) references Perfiles(ID_Perfil)	
+)
+
+select *
+from Usuarios
+
+create table Perfiles
+(
+	ID_Perfil int not null identity primary key,
+	Descripcion nvarchar(50) not null
+)
+
+
