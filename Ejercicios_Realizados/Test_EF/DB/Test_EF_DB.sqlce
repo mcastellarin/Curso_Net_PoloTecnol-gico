@@ -1,4 +1,4 @@
-create table Usuarios
+﻿create table Usuarios
 (
 	Login nvarchar(20) not null primary key,
 	FechaUltimoLogin dateTime, 
@@ -6,14 +6,16 @@ create table Usuarios
 	ID_Perfil int not null,
 	constraint FX_Perfiles foreign key(ID_Perfil) references Perfiles(ID_Perfil)	
 )
+go
 
 select *
-from Usuarios
+from Perfiles
 
 create table Perfiles
 (
 	ID_Perfil int not null identity primary key,
 	Descripcion nvarchar(50) not null
 )
+go
 
-
+insert into Perfiles (Descripcion) values ('eve')
